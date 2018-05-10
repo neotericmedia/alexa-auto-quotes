@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" --data @../data/3-faq.catch.all.questions.event.json http://127.0.0.1:9000/aviva/api/voice

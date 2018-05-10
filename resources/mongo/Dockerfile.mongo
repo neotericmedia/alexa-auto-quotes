@@ -1,0 +1,23 @@
+FROM mongo
+
+# Expose listen port
+EXPOSE 27017
+EXPOSE 28017
+
+# Expose our data volumes
+VOLUME ["/data"]
+
+# Import all the json seed data.
+RUN mkdir -p /seed
+WORKDIR /seed
+COPY mongo/importSeedData.sh /seed/
+COPY mongo/data/* /seed/data/
+COPY mongo/startMongo.sh /seed/
+
+COPY mongo/* /seed/
+COPY mongo/importSeedData.sh /seed/
+RUN chmod +rx /seed/importSeedData.sh
+RUN chmod +rx /seed/startMongo.sh
+
+# Run this to setup users and to import seed data
+CMD ["/seed/startMongo.sh"]

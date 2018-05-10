@@ -1,0 +1,31 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {
+        "gicookie": [
+                        "JSESSIONID=82DB5698A68026F12B0314F2C510C7B1"
+                ]
+    },
+    "user": {
+      "userId": "usr123"
+    },
+    "application": {
+      "applicationId": "amzn1.ask.skill.07e0bc9d-4373-482f-927b-521e6a50237f"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "faq": {
+          "name": "questionC",
+          "value": "Is property insurance mandatory"
+        }
+      },
+      "name": "Qc"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}

@@ -1,0 +1,4 @@
+LETTER_OR_NUMBER : refer to file LETTER_OR_NUMBER.txt
+TWENTY_FIVE : yes | no
+GENDER : male | female
+YES_NO : yes | no

@@ -1,0 +1,213 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {
+        "gicookie": [
+                        "JSESSIONID=82DB5698A68026F12B0314F2C510C7B1"
+                ],
+        "quote": {
+                        "isSubmitAgent": null,
+                        "selectedQuotePublicID": null,
+                        "quoteNumber": null,
+                        "sessionUUID": null,
+                        "createOfferings": null,
+                        "createNewPeriodOfferingCode": null,
+                        "avalailableOfferings": [],
+                        "quoteDraft": {
+                                "id": null,
+                                "accountHolder": {
+                                        "id": null,
+                                        "accountNumber": null,
+                                        "dateOfBirth": null,
+                                        "displayName": "John Doe",
+                                        "emailAddress1": null,
+                                        "firstName": "John",
+                                        "firstNameKanji": null,
+                                        "homeNumber": null,
+                                        "lastName": "Doe",
+                                        "lastNameKanji": null,
+                                        "maritalStatus": "P",
+                                        "middleName": null,
+                                        "particle": null,
+                                        "prefix": null,
+                                        "primaryPhoneType": "mobile",
+                                        "suffix": null,
+                                        "workNumber": null,
+                                        "cellNumber": null,
+                                        "primaryLanguage": null,
+                                        "creditCheckConsent": null,
+                                        "marketingConsent": null,
+                                        "affinityGroup": null,
+                                        "consentId": null,
+                                        "consentMessage": null
+                                },
+                                "periodStartDate": "2017-07-27T17:37:33.696Z",
+                                "periodEndDate": null,
+                                "policyAddress": {
+                                        "id": null,
+                                        "addressLine1": null,
+                                        "addressLine1Kanji": null,
+                                        "addressLine2": null,
+                                        "addressLine2Kanji": null,
+                                        "addressLine3": null,
+                                        "addressType": "home",
+                                        "aptOrSuiteNo": null,
+                                        "city": "RICHMOND HILL",
+                                        "cityKanji": null,
+                                        "country": "CA",
+                                        "displayName": null,
+                                        "isAutofilled": null,
+                                        "postalCode": "L4E 4X6",
+                                        "state": "ON",
+                                        "streetList": [
+                                                "AUGUSTINE AVE",
+                                                "DIETZMAN CRT"
+                                        ]
+                                },
+                                "productCode": "PersonalAuto",
+                                "productName": "Personal Auto",
+                                "offeringCode": null,
+                                "campaignCode": null,
+                                "affinityGroupCode": null,
+                                "propertyDraft": null,
+                                "autoDraft": {
+                                        "id": null,
+                                        "listOfDrivers": [
+                                                {
+                                                        "id": "temp:d1",
+                                                        "contactId": null,
+                                                        "driverNumber_AC": 1,
+                                                        "dateOfBirth": null,
+                                                        "gender": "M",
+                                                        "completedTrainingIn3Years": false,
+                                                        "dateCompletedTrainingClass": null,
+                                                        "completedRiderTrainingIn3Years": false,
+                                                        "dateCompletedRiderTrainingClass": null,
+                                                        "numberOfConvictionInLast3Years": 0,
+                                                        "firstName": "John",
+                                                        "lastName": "Doe",
+                                                        "emailAddress": "sadsa@dsadsd.com",
+                                                        "numberOfClaimsAtFault": 0,
+                                                        "marketingOptIn": null,
+                                                        "canceledForNonPayLast3Years": false,
+                                                        "timeWithPreviousInsurer": "lessthan3years",
+                                                        "yearsOfPriorInsurance": null,
+                                                        "carAndHomeDiscountNamedInsured": null,
+                                                        "hadLicenceSuspension": false,
+                                                        "hadPriorInsurance": true,
+                                                        "hadPriorMotorcycleInsurance": false,
+                                                        "hadContinuousMotorcycleInsurance": false,
+                                                        "continuousMotorcycleInsuranceSince": null,
+                                                        "phoneNumber": null,
+                                                        "primaryPhoneType": "mobile",
+                                                        "firstLicenceDate": null,
+                                                        "firstMotorcycleLicenceDate": null,
+                                                        "licenceState": null,
+                                                        "maritalStatus": "P",
+                                                        "mvrIncidents": [],
+                                                        "priorClaims": [],
+                                                        "listOfLicenceClasses": [
+                                                                {
+                                                                        "id": null,
+                                                                        "licenceTypeClass": "G",
+                                                                        "dateLicense": null
+                                                                }
+                                                        ],
+                                                        "displayName": null,
+                                                        "licenceNumber": null
+                                                }
+                                        ],
+                                        "listOfVehicles": [
+                                                {
+                                                        "id": "temp:v1",
+                                                        "vehicleNum": 1,
+                                                        "vehicleType": "auto",
+                                                        "vehicleClassType": null,
+                                                        "annualMileage": 12345,
+                                                        "commutingMiles": null,
+                                                        "make": null,
+                                                        "model": null,
+                                                        "year": 0,
+                                                        "vehiclePurchaseDate": 1483246800000,
+                                                        "primaryUse": "pleasure",
+                                                        "name": null,
+                                                        "vin": null,
+                                                        "costNew": null,
+                                                        "displayName": null,
+                                                        "leaseOrRent": false,
+                                                        "lengthOfLease": null,
+                                                        "license": null,
+                                                        "licenseState": null,
+                                                        "antiTheftDevice": null,
+                                                        "hasAntiTheftDevice": null,
+                                                        "winterTiresInstalled": true,
+                                                        "licensePlate": null,
+                                                        "ratingFactors1": null,
+                                                        "ratingFactors2": null,
+                                                        "ratingPostalCode": null,
+                                                        "ratingProvince": null,
+                                                        "collRateGroup": null,
+                                                        "compRateGroup": null,
+                                                        "dcpdRateGroup": null,
+                                                        "accidentBenefitRateGroup": null,
+                                                        "carCode": null,
+                                                        "vehilcePurchaseCondition": null,
+                                                        "vehicleRateMethod": "vehicle",
+                                                        "engineSize": null,
+                                                        "abs": null,
+                                                        "msrp": null,
+                                                        "is3WheeledATV": null,
+                                                        "businessUse": null,
+                                                        "length": null,
+                                                        "modelID": null,
+                                                        "isOriginalOwner": null,
+                                                        "businessUsePercentage": null,
+                                                        "isException": false,
+                                                        "isMCYException": null,
+                                                        "brandNewValue": null
+                                                }
+                                        ],
+                                        "listOfVehicleDriverAssignments": [
+                                                {
+                                                        "id": null,
+                                                        "driverID": "temp:d1",
+                                                        "vehicleID": "temp:v1",
+                                                        "driverDesignation": "principalOperator"
+                                                }
+                                        ]
+                                },
+                                "listDiscounts": [],
+                                "uwCompany": "NUM_49_AC"
+                        },
+                        "listOfOfferedQuotes": [],
+                        "id": null
+                },
+                "journery": "AutoQuote",
+                "vehicleYear": "2006",
+                "vehicleMake": "HONDA",
+                "vehicleModel": "ACCORD DX-G 4DR",
+                "yearMakeModel": "2006 HONDA ACCORD DX-G 4DR"
+    },
+    "user": {
+      "userId": "usr123"
+    },
+    "application": {
+      "applicationId": "amzn1.ask.skill.07e0bc9d-4373-482f-927b-521e6a50237f"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "TwentyFive": {
+          "name": "YES_NO",
+          "value": "no"
+        }
+      },
+      "name": "AgeIntent"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}

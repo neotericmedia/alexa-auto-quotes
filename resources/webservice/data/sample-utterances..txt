@@ -1,0 +1,36 @@
+AutoQuote quick auto insurance quote
+AutoQuote auto quote
+AutoQuote quote auto
+AutoQuote quote my auto
+AutoQuote insurance quote
+AutoQuote quote
+AutoQuote could you get me an auto quote
+AutoQuote I would like to get an auto insurance quote
+PostalCode {codeA} {codeB} {codeC} {codeD} {codeE} {codeF}
+PostalCode postal code is {codeA} {codeB} {codeC} {codeD} {codeE} {codeF}
+PostalCode my postal code is {codeA} {codeB} {codeC} {codeD} {codeE} {codeF}
+YearMakeModel {year} {make} {model}
+YearMakeModel {model} {make} {year}
+YearMakeModel {make} {model} {year}
+YearMakeModel {make} {year} {model}
+YearMakeModel {model} {year} {make}
+UserConfirmation {confirmation}
+CatchAllQuestions {catchAll}
+VehicleYear {vYear}
+VehicleYear my vehicle year is {vYear}
+VehicleYear vehicle year is {vYear}
+VehicleMake {vMake}
+VehicleMake my vehicle make is {vMake}
+VehicleMake vehicle make is {vMake}
+VehicleModel {vModel}
+VehicleModel my vehicle model is {vModel}
+VehicleModel vehicle model is {vModel}
+GenderIntent {Gender}
+GenderIntent I am {Gender}
+GenderIntent I am a {Gender}
+AutoInsurance insurance question
+AutoInsurance insurance information
+AutoInsurance ask a question
+AutoInsurance insurance info
+AutoInsurance information
+AutoInsurance f a q

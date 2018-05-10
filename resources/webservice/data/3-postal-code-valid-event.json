@@ -1,0 +1,193 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.1f2a262a-d246-4462-8f45-def28cc82ef0",
+    "application": {
+      "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+    },
+    "attributes": {
+      "vehicleModelIntentAttempts": 0,
+      "journery": "AutoQuote",
+      "GUID": "e575fd08-da6c-49cd-bc38-30437d0bca71",
+      "postalCodeIntentAttempts": 0,
+      "vehicleMakeIntentAttempts": 0,
+      "category": "PostalCodeCategory",
+      "deviceId": "amzn1.ask.device.AHJHSGZA2V4RGE3P422TRPV6FPWY7UWH2TKQLELW4GIG4T4OJ7QKOM3XXARQEBKWL7R5AHDH37OELJVWVYXEEB66ECKBOLIBEKZP5RNI6LR4NF5AJWYMAB5DIZVMK5Z3GDZN5YRSPPCCHUI7YIIGF7XYAC7Q",
+      "vehicleYearIntentAttempts": 0
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AHKW4OBCMQ2F6LB5GWRT4VERTFTSGP2KEBDZAWM6G7CJR3TYA44LZZ3ELOREIU7UBFQ7QPF5CUHOWSSAZHGTFZZG3BWVEAD67X7S6P4PENG77Y5HQUID6NVC7LS2POQPTZIGNLZEOQGU5EJ4BTCSLUX6DQGS7SQYUAQTNCF6BKY5KVDWLS5FCMXT3V4VTEZGWJ3A6OUBZNLMQGA"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AHKW4OBCMQ2F6LB5GWRT4VERTFTSGP2KEBDZAWM6G7CJR3TYA44LZZ3ELOREIU7UBFQ7QPF5CUHOWSSAZHGTFZZG3BWVEAD67X7S6P4PENG77Y5HQUID6NVC7LS2POQPTZIGNLZEOQGU5EJ4BTCSLUX6DQGS7SQYUAQTNCF6BKY5KVDWLS5FCMXT3V4VTEZGWJ3A6OUBZNLMQGA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AHJHSGZA2V4RGE3P422TRPV6FPWY7UWH2TKQLELW4GIG4T4OJ7QKOM3XXARQEBKWL7R5AHDH37OELJVWVYXEEB66ECKBOLIBEKZP5RNI6LR4NF5AJWYMAB5DIZVMK5Z3GDZN5YRSPPCCHUI7YIIGF7XYAC7Q",
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.61c9f52a-799b-4a26-be24-6cb118bac474",
+    "timestamp": "2017-09-06T13:22:33Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "PostalCode",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "codeD": {
+          "name": "codeD",
+          "value": "6",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.POSTAL_NUMBER",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "six",
+                      "id": "f52b5e449a2303c031a0c3a1109360bf"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        },
+        "codeC": {
+          "name": "codeC",
+          "value": "J",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.POSTAL_LETTER",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "J",
+                      "id": "ff44570aca8241914870afbc310cdb85"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        },
+        "codeB": {
+          "name": "codeB",
+          "value": "1",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.POSTAL_NUMBER",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "one",
+                      "id": "f97c5d29941bfb1b2fdab0874906ab82"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        },
+        "codeA": {
+          "name": "codeA",
+          "value": "L",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.POSTAL_LETTER",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "L",
+                      "id": "d20caec3b48a1eef164cb4ca81ba2587"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        },
+        "codeF": {
+          "name": "codeF",
+          "value": "2",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.POSTAL_NUMBER",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "two",
+                      "id": "b8a9f715dbb64fd5c56e7783c6820a61"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        },
+        "codeE": {
+          "name": "codeE",
+          "value": "P",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.POSTAL_LETTER",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "P",
+                      "id": "44c29edb103a2872f519ad0c9a0fdaaa"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        }
+      }
+    }
+  }
+}

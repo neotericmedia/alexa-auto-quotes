@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.6f40aa4c-7e94-4b9c-a496-3c535152facb",
+    "application": {
+      "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+    },
+    "attributes": {
+      "vehicleModelIntentAttempts": 0,
+      "journery": "NotInitiated",
+      "GUID": "6a8c8b84-a641-4d27-be3e-e73f248adb40",
+      "postalCodeIntentAttempts": 0,
+      "vehicleMakeIntentAttempts": 0,
+      "category": "NotInitiated",
+      "deviceId": "amzn1.ask.device.AH2BZ2GKK5MZ3RVJFMPYQ4Q3MMSFIJXXJA3OWERRN3ZMND35H5DAPFEKABH6AQWT3QG2HQZ3VSHPANDUB74W7UBN73CC5RPHSYSVZEEXAGGCLG5YP4AGGFZGY755PEUR6OVJALKNVYTRJUWNUIZOT4U7GWPQ",
+      "vehicleYearIntentAttempts": 0
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AENHLRKQ3OHAB574N5RVLPVABQNAG5DSV5Z6BDHN6HTI3726DPJJWKZFGKI7EKOLCYF3ZDDMRY2J4UAY4RJ4QI3XUOPJKJ4ZY6P72LA7QXDDB22A55RTY4JCQLZVZROUMB2XKJ7VCWCEXCT6PMQW5S2PLUTELQ7J2MBJL5MW2I6D4K46LGBPMTR4W4HP4FGBW5XEJ5NSFUDS5II"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AENHLRKQ3OHAB574N5RVLPVABQNAG5DSV5Z6BDHN6HTI3726DPJJWKZFGKI7EKOLCYF3ZDDMRY2J4UAY4RJ4QI3XUOPJKJ4ZY6P72LA7QXDDB22A55RTY4JCQLZVZROUMB2XKJ7VCWCEXCT6PMQW5S2PLUTELQ7J2MBJL5MW2I6D4K46LGBPMTR4W4HP4FGBW5XEJ5NSFUDS5II"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AH2BZ2GKK5MZ3RVJFMPYQ4Q3MMSFIJXXJA3OWERRN3ZMND35H5DAPFEKABH6AQWT3QG2HQZ3VSHPANDUB74W7UBN73CC5RPHSYSVZEEXAGGCLG5YP4AGGFZGY755PEUR6OVJALKNVYTRJUWNUIZOT4U7GWPQ",
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.295e3c80-f7c1-495b-bda4-aedceda5c90a",
+    "timestamp": "2017-09-10T22:34:51Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "AutoQuote",
+      "confirmationStatus": "NONE"
+    }
+  }
+}

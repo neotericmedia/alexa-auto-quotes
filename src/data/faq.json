@@ -1,0 +1,96 @@
+[{
+    "intent": "Qa",    
+    "value": "I am going on vacation will my car insurance cover me to rent a car?",
+    "shortAnswer" : "If you rent a car you will need Endorsement 27 Liability for Damage for Non-Owned Automobiles on your policy in order to have any rental automobiles covered. Coverage is only provided in Canada and the Continental US, including Hawaii and Alaska, excluding US territories.",
+    "longAnswer": "Aviva offers Liability for non automobiles (endorsement  27) an optional coverage you can purchase to protect your rental car in case of an accident, theft etc. This coverage includes your Third Party Liability limit and 50 - 100 thousand dollars for damage to the vehicle.  The protection is valuable for listed drivers on a policy who rent a vehicle in Canada or the USA for more than 2 days in any 1 calendar year."
+    },
+    {
+    "intent": "Qc",    
+    "value": "Do I have to tell my insurance company I moved?",
+    "shortAnswer" : "Yes, it is expected that you advise your insurance company of changes as these changes could  impact your premium.  If you are unsure call us. ",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qd",    
+    "value": "How does my Insurance company know if I am at-fault?",
+    "shortAnswer" : "All Insurance companies use a legislated set of rules to determine fault.  They are known as Fault determination rules and are designed to protect you from arbitrary decision making.",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qf",    
+    "value": "What is Third Party Liability ?",
+    "shortAnswer" : "Third Party Liability is a mandatory coverage that protects you when you are at fault in an accident, and hurt someone or damage property.  It will also cover the legal expenses associated with the accident.  We recommend you purchase more than the standard 1M and offers up to 5 Million dollars of protection",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qg",    
+    "value": "What is Collision coverage?",
+    "shortAnswer" : "Collision covers the damage to your vehicle when involved in an at fault accident or hit and run.",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qh",    
+    "value": "What is Comprehensive coverage?",
+    "shortAnswer" : "Comprehensive coverage provides protection for your car against damage including break-ins, glass, water damage, fire, vandalism and falling objects etc",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qi",    
+    "value": "What is All Perils coverage?",
+    "shortAnswer" : "All Perils combines collision and comprehensive coverage and adds additional coverage of theft by member of the household or employee.",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qj",    
+    "value": "What is Accident Benefits coverage?",
+    "shortAnswer" : "Accident Benefits coverage pays for medical treatment and lost income when you are injured in an accident.  As there are a variety of optional coverages available, We strongly recommends you speak to your Agent or Broker to understand the limitations of the basic coverage.",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qk",    
+    "value": "Why won't my insurance company let me take Accident Benefits off my policy?",
+    "shortAnswer" : "The Government of Ontario protects insurance customers by legislating basic coverages; therefore, Accidents Benefits is mandatory coverage and cannot be removed.",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qm",    
+    "value": "Do I have to add my son/daughter to my policy with only a beginners license",
+    "shortAnswer" : "It is expected that you inform the insurance company about other licensed drivers in your Household.  To make this easy for you, Aviva does not charge any premium for a G1 or other drivers with their own cars and insurance.",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qn",    
+    "value": "Do I need to have insurance? ",
+    "shortAnswer" : "Yes, a vehicle registered in Ontario requires a minimum of $200,000 Third Partly Liability coverage.  However we strongly recommends you do not purchase at this minimum level.  To ensure you have the right amount of coverage contact an Agent or broker",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qo",
+    "value": "Will making a claim affect my insurance premium? ",
+    "shortAnswer" : "Only at-fault claims will affect you insurance premium, but you must report all insurance claims your insurance company   Aviva offers an optional coverage for qualified drivers to protect your driving record",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qp",    
+    "value": "What is a deductible?",
+    "shortAnswer" : "A deductible is the portion of the claim that you agree to pay in the event of an accident or loss. This amount is determined by the policy holder when buying the policy. ",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qq",    
+    "value": "Am I covered if I hit an animal on the highway?",
+    "shortAnswer" : "If your car insurance policy includes Comprehensive or All Perils coverage, you would be covered.  Impact with an animal already killed and lying in the roadway would require Collision coverage",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qr",    
+    "value": "Does leasing or financing my car affect my insurance?",
+    "shortAnswer" : "No, leasing or financing your car does not change how much you pay for your insurance. Leasing companies may require you to have full coverage on your car, including Collision or Comprehensive coverage. ",
+    "longAnswer": ""    
+    },
+    {
+    "intent": "Qs",    
+    "value": "What does full coverage mean? ",
+    "shortAnswer" : "Full coverage generally means you have purchased coverage that protects your Liability to others and your vehicle when it gets damaged.",
+    "longAnswer": ""    
+    }]

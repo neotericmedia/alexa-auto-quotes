@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" --data @../data/event.json https://f07a6a82.ngrok.io/aviva/api/greeting

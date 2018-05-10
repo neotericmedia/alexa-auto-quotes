@@ -1,0 +1,119 @@
+{
+  "intents": [
+    {
+      "intent": "AutoQuote"
+    },
+    {
+      "slots": [
+        {
+          "name": "codeA",
+          "type": "POSTAL_LETTER"
+        },
+        {
+          "name": "codeB",
+          "type": "POSTAL_NUMBER"
+        },
+        {
+          "name": "codeC",
+          "type": "POSTAL_LETTER"
+        },
+        {
+          "name": "codeD",
+          "type": "POSTAL_NUMBER"
+        },
+        {
+          "name": "codeE",
+          "type": "POSTAL_LETTER"
+        },
+        {
+          "name": "codeF",
+          "type": "POSTAL_NUMBER"
+        }
+      ],
+      "intent": "PostalCode"
+    },
+    {
+      "slots": [
+        {
+          "name": "confirmation",
+          "type": "YES_NO"
+        }
+      ],
+      "intent": "UserConfirmation"
+    },
+    {
+      "slots": [
+        {
+          "name": "year",
+          "type": "V_YEAR"
+        },
+        {
+          "name": "make",
+          "type": "V_MAKE"
+        },
+        {
+          "name": "model",
+          "type": "V_MODEL"
+        }
+      ],
+      "intent": "YearMakeModel"
+    },
+    {
+      "slots": [
+        {
+          "name": "catchAll",
+          "type": "CATCHALL"
+        }
+      ],
+      "intent": "CatchAllQuestions"
+    },
+    {
+      "slots": [
+        {
+          "name": "vYear",
+          "type": "V_YEAR"
+        }
+      ],
+      "intent": "VehicleYear"
+    },
+    {
+      "slots": [
+        {
+          "name": "vMake",
+          "type": "V_MAKE"
+        }
+      ],
+      "intent": "VehicleMake"
+    },
+    {
+      "slots": [
+        {
+          "name": "vModel",
+          "type": "V_MODEL"
+        }
+      ],
+      "intent": "VehicleModel"
+    },
+    {
+      "slots": [
+        {
+          "name": "Gender",
+          "type": "MALE_FEMALE"
+        }
+      ],
+      "intent": "GenderIntent"
+    },
+    {
+      "intent": "AutoInsurance"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

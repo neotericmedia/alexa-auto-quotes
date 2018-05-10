@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.92e31c7f-c9bd-4e3e-b104-8bab8357e56c",
+    "application": {
+      "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+    },
+    "attributes": {
+      "journery": "AutoInsurance",
+      "GUID": "9f75d6ad-c5c5-49eb-9d72-9de850b6896a",
+      "category": "NotInitiated",
+      "deviceId": "amzn1.ask.device.AGQCB7OVCSL2WROIPPLFHKCNZKXBA5QJ4ZWI66HPGKY6W2YYCLUM6FPOH2E5UES7VHIACYLWFLT63UPY25AWMNJ2C5U34RVI2MEDZSVFMBNNNTAJOUUURHYFTSYODWDYSPUP7UC3PGRYLH45XAZO4KL5BJLQ"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AHVUGF2Q372R5ODF6HM6VSYGXX6TG2BBZY4FKCVNECCR3MAS2TDQ3BF7Q7RYMTYDFE35BOJJ3KD42ZXJ5PR3LWXJTQB7H6IVL665WZISKM3I7YQNTPBDV5UEDD3EPKRAGQGJLR5KD2NUVCMCIRU7JLRZG5CQZ37RL5ZMO6OEI7VBSYKXBYJXCEQGVWVLUALIKCV4KIXQP66XTMY"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AHVUGF2Q372R5ODF6HM6VSYGXX6TG2BBZY4FKCVNECCR3MAS2TDQ3BF7Q7RYMTYDFE35BOJJ3KD42ZXJ5PR3LWXJTQB7H6IVL665WZISKM3I7YQNTPBDV5UEDD3EPKRAGQGJLR5KD2NUVCMCIRU7JLRZG5CQZ37RL5ZMO6OEI7VBSYKXBYJXCEQGVWVLUALIKCV4KIXQP66XTMY"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AGQCB7OVCSL2WROIPPLFHKCNZKXBA5QJ4ZWI66HPGKY6W2YYCLUM6FPOH2E5UES7VHIACYLWFLT63UPY25AWMNJ2C5U34RVI2MEDZSVFMBNNNTAJOUUURHYFTSYODWDYSPUP7UC3PGRYLH45XAZO4KL5BJLQ",
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "catchAll": {
+          "name": "CATCHALL",
+          "value": "Do I need to have insurance ?"
+        }
+      },
+      "name": "CatchAllQuestions"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}

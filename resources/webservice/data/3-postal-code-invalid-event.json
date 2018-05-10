@@ -1,0 +1,48 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {
+      "journery": "AutoQuote"
+    },
+    "user": {
+      "userId": "usr123"
+    },
+    "application": {
+      "applicationId": "amzn1.ask.skill.07e0bc9d-4373-482f-927b-521e6a50237f"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "codeA": {
+          "name": "POSTAL_LETTER",
+          "value": "4"
+        },
+        "codeB": {
+          "name": "POSTAL_NUMBER",
+          "value": "4"
+        },
+        "codeC": {
+          "name": "POSTAL_LETTER",
+          "value": "4"
+        },
+        "codeD": {
+          "name": "POSTAL_NUMBER",
+          "value": "4"
+        },
+        "codeE": {
+          "name": "POSTAL_LETTER",
+          "value": "X"
+        },"codeF": {
+          "name": "POSTAL_NUMBER",
+          "value": "6"
+        }
+      },
+      "name": "PostalCode"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}

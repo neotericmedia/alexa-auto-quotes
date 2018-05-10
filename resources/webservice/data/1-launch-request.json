@@ -1,0 +1,40 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {},
+    "user": {
+      "userId": "usr123"
+    },
+    "application": {
+      "applicationId": "amzn1.ask.skill.07e0bc9d-4373-482f-927b-521e6a50237f"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AGLL3TTXNH44VL2SHD7PA5CX5KP2CB6QEUH6VOCQ4HJ3X3IZ2FECULR3T4NK744MCPYFHXKXWVN5GF6HUJVKKMLNTHHOROEKTVYR7KFX2IVOW2FOCPBHV5NZ4Z6COMKPJX5XUYIZ7US5ITQCKOBIQ3MP2JRRH7U2ZFCOBNFV7PUEXOTSSPJ7QPRVBAQU4BODARUFBE62YADXNIA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AHZEZDUUOP4L2JE52KHSCCEINH2GPP2TMNN3RPSA7FSAAQGAL75ABADSMOHKSW5UQAHT3AISTE2BS6NFJCQRQWXCOAIVE5O3UHBC46POGRZY4ALPCYGKNCAINL624JOMTDIWAWOGSOPUJLBXEQU46WMX4BCA",
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "type": "LaunchRequest",
+    "requestId": "request5678",
+    "locale": "en-US",
+    "timestamp": "2017-07-24T20:17:16Z"
+  }
+}

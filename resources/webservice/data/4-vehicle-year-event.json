@@ -1,0 +1,262 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.04d7123d-f257-4ff6-9051-ed84aa1e95fb",
+    "application": {
+      "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+    },
+    "attributes": {
+      "vehicleModelIntentAttempts": 0,
+      "journery": "AutoQuote",
+      "gicookie": "JSESSIONID=0000uUCJPa-F5gonXTRjEUZ19wn:-1",
+      "quote": {
+        "isSubmitAgent": null,
+        "selectedQuotePublicID": null,
+        "quoteNumber": null,
+        "sessionUUID": null,
+        "createOfferings": null,
+        "createNewPeriodOfferingCode": null,
+        "avalailableOfferings": [],
+        "quoteDraft": {
+          "id": null,
+          "accountHolder": {
+            "id": null,
+            "accountNumber": null,
+            "dateOfBirth": null,
+            "displayName": "Alexa Quote",
+            "emailAddress1": null,
+            "firstName": "Alexa",
+            "firstNameKanji": null,
+            "homeNumber": null,
+            "lastName": "Quote",
+            "lastNameKanji": null,
+            "maritalStatus": "S",
+            "middleName": null,
+            "particle": null,
+            "prefix": null,
+            "primaryPhoneType": "mobile",
+            "suffix": null,
+            "workNumber": null,
+            "cellNumber": null,
+            "primaryLanguage": null,
+            "creditCheckConsent": null,
+            "marketingConsent": null,
+            "affinityGroup": null,
+            "consentId": null,
+            "consentMessage": null
+          },
+          "periodStartDate": "2017-09-06T00:23:22.685Z",
+          "periodEndDate": null,
+          "policyAddress": {
+            "id": null,
+            "addressLine1": null,
+            "addressLine1Kanji": null,
+            "addressLine2": null,
+            "addressLine2Kanji": null,
+            "addressLine3": null,
+            "addressType": "home",
+            "aptOrSuiteNo": null,
+            "city": "NORTH YORK",
+            "cityKanji": null,
+            "country": "CA",
+            "displayName": null,
+            "isAutofilled": null,
+            "postalCode": "M4A 1W3",
+            "state": "ON",
+            "streetList": [
+              "LAWRENCE AVE E"
+            ]
+          },
+          "productCode": "PersonalAuto",
+          "productName": "Personal Auto",
+          "offeringCode": null,
+          "campaignCode": null,
+          "affinityGroupCode": null,
+          "propertyDraft": null,
+          "autoDraft": {
+            "id": null,
+            "listOfDrivers": [
+              {
+                "id": "temp:d1",
+                "contactId": null,
+                "driverNumber_AC": 1,
+                "dateOfBirth": null,
+                "gender": "M",
+                "completedTrainingIn3Years": false,
+                "dateCompletedTrainingClass": null,
+                "completedRiderTrainingIn3Years": false,
+                "dateCompletedRiderTrainingClass": null,
+                "numberOfConvictionInLast3Years": 0,
+                "firstName": "Alexa",
+                "lastName": "Quote",
+                "emailAddress": "alexa_dev.quote.canada@aviva.com",
+                "numberOfClaimsAtFault": 0,
+                "marketingOptIn": null,
+                "canceledForNonPayLast3Years": false,
+                "timeWithPreviousInsurer": "lessthan3years",
+                "yearsOfPriorInsurance": null,
+                "carAndHomeDiscountNamedInsured": null,
+                "hadLicenceSuspension": false,
+                "hadPriorInsurance": true,
+                "hadPriorMotorcycleInsurance": false,
+                "hadContinuousMotorcycleInsurance": false,
+                "continuousMotorcycleInsuranceSince": null,
+                "phoneNumber": null,
+                "primaryPhoneType": "mobile",
+                "firstLicenceDate": null,
+                "firstMotorcycleLicenceDate": null,
+                "licenceState": null,
+                "maritalStatus": "P",
+                "mvrIncidents": [],
+                "priorClaims": [],
+                "listOfLicenceClasses": [
+                  {
+                    "id": null,
+                    "licenceTypeClass": "G",
+                    "dateLicense": null
+                  }
+                ],
+                "displayName": null,
+                "licenceNumber": null
+              }
+            ],
+            "listOfVehicles": [
+              {
+                "id": "temp:v1",
+                "vehicleNum": 1,
+                "vehicleType": "auto",
+                "vehicleClassType": null,
+                "annualMileage": 25000,
+                "commutingMiles": 20,
+                "make": null,
+                "model": null,
+                "year": 0,
+                "vehiclePurchaseDate": 1483246800000,
+                "primaryUse": "commuting",
+                "name": null,
+                "vin": null,
+                "costNew": null,
+                "displayName": null,
+                "leaseOrRent": false,
+                "lengthOfLease": null,
+                "license": null,
+                "licenseState": null,
+                "antiTheftDevice": null,
+                "hasAntiTheftDevice": null,
+                "winterTiresInstalled": true,
+                "licensePlate": null,
+                "ratingFactors1": null,
+                "ratingFactors2": null,
+                "ratingPostalCode": null,
+                "ratingProvince": null,
+                "collRateGroup": null,
+                "compRateGroup": null,
+                "dcpdRateGroup": null,
+                "accidentBenefitRateGroup": null,
+                "carCode": null,
+                "vehilcePurchaseCondition": null,
+                "vehicleRateMethod": "vehicle",
+                "engineSize": null,
+                "abs": null,
+                "msrp": null,
+                "is3WheeledATV": null,
+                "businessUse": null,
+                "length": null,
+                "modelID": null,
+                "isOriginalOwner": null,
+                "businessUsePercentage": null,
+                "isException": false,
+                "isMCYException": null,
+                "brandNewValue": null
+              }
+            ],
+            "listOfVehicleDriverAssignments": [
+              {
+                "id": null,
+                "driverID": "temp:d1",
+                "vehicleID": "temp:v1",
+                "driverDesignation": "principalOperator"
+              }
+            ]
+          },
+          "listDiscounts": [],
+          "uwCompany": "NUM_49_AC"
+        },
+        "listOfOfferedQuotes": [],
+        "id": null
+      },
+      "postalCode": "m4a 1W3",
+      "GUID": "3284bacf-d1a6-49f4-83aa-3f7d24af1641",
+      "postalCodeIntentAttempts": 1,
+      "vehicleMakeIntentAttempts": 0,
+      "category": "YearMakeModelCategory",
+      "deviceId": "amzn1.ask.device.AGQCB7OVCSL2WROIPPLFHKCNZKXBA5QJ4ZWI66HPGKY6W2YYCLUM6FPOH2E5UES7VHIACYLWFLT63UPY25AWMNJ2C5U34RVI2MEDZSVFMBNNNTAJOUUURHYFTSYODWDYSPUP7UC3PGRYLH45XAZO4KL5BJLQ",
+      "vehicleYearIntentAttempts": 0
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AHVUGF2Q372R5ODF6HM6VSYGXX6TG2BBZY4FKCVNECCR3MAS2TDQ3BF7Q7RYMTYDFE35BOJJ3KD42ZXJ5PR3LWXJTQB7H6IVL665WZISKM3I7YQNTPBDV5UEDD3EPKRAGQGJLR5KD2NUVCMCIRU7JLRZG5CQZ37RL5ZMO6OEI7VBSYKXBYJXCEQGVWVLUALIKCV4KIXQP66XTMY"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AHVUGF2Q372R5ODF6HM6VSYGXX6TG2BBZY4FKCVNECCR3MAS2TDQ3BF7Q7RYMTYDFE35BOJJ3KD42ZXJ5PR3LWXJTQB7H6IVL665WZISKM3I7YQNTPBDV5UEDD3EPKRAGQGJLR5KD2NUVCMCIRU7JLRZG5CQZ37RL5ZMO6OEI7VBSYKXBYJXCEQGVWVLUALIKCV4KIXQP66XTMY"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AGQCB7OVCSL2WROIPPLFHKCNZKXBA5QJ4ZWI66HPGKY6W2YYCLUM6FPOH2E5UES7VHIACYLWFLT63UPY25AWMNJ2C5U34RVI2MEDZSVFMBNNNTAJOUUURHYFTSYODWDYSPUP7UC3PGRYLH45XAZO4KL5BJLQ",
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.2e1436ac-b6a8-49f3-b208-47c466b70b2a",
+    "timestamp": "2017-09-06T00:23:30Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "VehicleYear",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "vYear": {
+          "name": "vYear",
+          "value": "2006",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.26ebd526-f6f7-4a21-b727-6c9124e51b82.V_YEAR",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "2006",
+                      "id": "ea5a486c712a91e48443cd802642223d"
+                    }
+                  },
+                  {
+                    "value": {
+                      "name": "2026",
+                      "id": "c92a10324374fac681719d63979d00fe"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        }
+      }
+    }
+  }
+}
